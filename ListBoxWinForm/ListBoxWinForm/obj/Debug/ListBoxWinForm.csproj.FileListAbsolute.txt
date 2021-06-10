@@ -1,0 +1,10 @@
+C:\Users\Laxman\Documents\Visual Studio 2019\ListBoxWinForm\ListBoxWinForm\bin\Debug\ListBoxWinForm.exe.config
+C:\Users\Laxman\Documents\Visual Studio 2019\ListBoxWinForm\ListBoxWinForm\bin\Debug\ListBoxWinForm.exe
+C:\Users\Laxman\Documents\Visual Studio 2019\ListBoxWinForm\ListBoxWinForm\bin\Debug\ListBoxWinForm.pdb
+C:\Users\Laxman\Documents\Visual Studio 2019\ListBoxWinForm\ListBoxWinForm\obj\Debug\ListBoxWinForm.Form1.resources
+C:\Users\Laxman\Documents\Visual Studio 2019\ListBoxWinForm\ListBoxWinForm\obj\Debug\ListBoxWinForm.Properties.Resources.resources
+C:\Users\Laxman\Documents\Visual Studio 2019\ListBoxWinForm\ListBoxWinForm\obj\Debug\ListBoxWinForm.csproj.GenerateResource.cache
+C:\Users\Laxman\Documents\Visual Studio 2019\ListBoxWinForm\ListBoxWinForm\obj\Debug\ListBoxWinForm.csproj.CoreCompileInputs.cache
+C:\Users\Laxman\Documents\Visual Studio 2019\ListBoxWinForm\ListBoxWinForm\obj\Debug\ListBoxWinForm.exe
+C:\Users\Laxman\Documents\Visual Studio 2019\ListBoxWinForm\ListBoxWinForm\obj\Debug\ListBoxWinForm.pdb
+C:\Users\Laxman\Documents\Visual Studio 2019\ListBoxWinForm\ListBoxWinForm\obj\Debug\ListBoxWinForm.csprojAssemblyReference.cache
