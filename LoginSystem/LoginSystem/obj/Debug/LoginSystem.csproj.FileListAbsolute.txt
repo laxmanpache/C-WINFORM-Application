@@ -1,0 +1,11 @@
+C:\Users\Laxman\Documents\Visual Studio 2019\LoginSystem\LoginSystem\bin\Debug\LoginSystem.exe.config
+C:\Users\Laxman\Documents\Visual Studio 2019\LoginSystem\LoginSystem\bin\Debug\LoginSystem.exe
+C:\Users\Laxman\Documents\Visual Studio 2019\LoginSystem\LoginSystem\bin\Debug\LoginSystem.pdb
+C:\Users\Laxman\Documents\Visual Studio 2019\LoginSystem\LoginSystem\obj\Debug\LoginSystem.csprojAssemblyReference.cache
+C:\Users\Laxman\Documents\Visual Studio 2019\LoginSystem\LoginSystem\obj\Debug\LoginSystem.Form1.resources
+C:\Users\Laxman\Documents\Visual Studio 2019\LoginSystem\LoginSystem\obj\Debug\LoginSystem.Properties.Resources.resources
+C:\Users\Laxman\Documents\Visual Studio 2019\LoginSystem\LoginSystem\obj\Debug\LoginSystem.csproj.GenerateResource.cache
+C:\Users\Laxman\Documents\Visual Studio 2019\LoginSystem\LoginSystem\obj\Debug\LoginSystem.csproj.CoreCompileInputs.cache
+C:\Users\Laxman\Documents\Visual Studio 2019\LoginSystem\LoginSystem\obj\Debug\LoginSystem.exe
+C:\Users\Laxman\Documents\Visual Studio 2019\LoginSystem\LoginSystem\obj\Debug\LoginSystem.pdb
+C:\Users\Laxman\Documents\Visual Studio 2019\LoginSystem\LoginSystem\obj\Debug\LoginSystem.Form2.resources
