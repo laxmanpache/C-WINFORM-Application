@@ -1,0 +1,10 @@
+C:\Users\Laxman\Documents\Visual Studio 2019\CalculatorWinFOrm\CalculatorWinFOrm\bin\Debug\CalculatorWinFOrm.exe.config
+C:\Users\Laxman\Documents\Visual Studio 2019\CalculatorWinFOrm\CalculatorWinFOrm\bin\Debug\CalculatorWinFOrm.exe
+C:\Users\Laxman\Documents\Visual Studio 2019\CalculatorWinFOrm\CalculatorWinFOrm\bin\Debug\CalculatorWinFOrm.pdb
+C:\Users\Laxman\Documents\Visual Studio 2019\CalculatorWinFOrm\CalculatorWinFOrm\obj\Debug\CalculatorWinFOrm.Form1.resources
+C:\Users\Laxman\Documents\Visual Studio 2019\CalculatorWinFOrm\CalculatorWinFOrm\obj\Debug\CalculatorWinFOrm.Properties.Resources.resources
+C:\Users\Laxman\Documents\Visual Studio 2019\CalculatorWinFOrm\CalculatorWinFOrm\obj\Debug\CalculatorWinFOrm.csproj.GenerateResource.cache
+C:\Users\Laxman\Documents\Visual Studio 2019\CalculatorWinFOrm\CalculatorWinFOrm\obj\Debug\CalculatorWinFOrm.csproj.CoreCompileInputs.cache
+C:\Users\Laxman\Documents\Visual Studio 2019\CalculatorWinFOrm\CalculatorWinFOrm\obj\Debug\CalculatorWinFOrm.exe
+C:\Users\Laxman\Documents\Visual Studio 2019\CalculatorWinFOrm\CalculatorWinFOrm\obj\Debug\CalculatorWinFOrm.pdb
+C:\Users\Laxman\Documents\Visual Studio 2019\CalculatorWinFOrm\CalculatorWinFOrm\obj\Debug\CalculatorWinFOrm.csproj.AssemblyReference.cache
